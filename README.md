@@ -17,23 +17,24 @@ Tecnologias e tópicos abordados: **Kubernetes, Docker, Azure DevOps, APIOps, Gi
 - Microsoft Entra ID: https://learn.microsoft.com/en-us/entra/identity/
 
 ### Containers
-- Cloud Native Computing Foundation (CNCF)
-- CNCF Landscape
-- Kubernetes
+- Cloud Native Computing Foundation (CNCF): https://www.cncf.io/projects/
+- CNCF Landscape: https://landscape.cncf.io/
+- Kubernetes: https://kubernetes.io/docs/home/
 - Azure Kubernetes Service (AKS)
-- GitOps
-- Git
-- Argo CD
-- Apache Camel
+- GitOps: https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks
+- Git: https://git-scm.com/doc
+- Argo CD: https://argoproj.github.io/cd/
+- Apache Camel: https://camel.apache.org/docs/
 - KEDA (Kubernetes Event-driven Autoscaling): https://keda.sh/
-- Azure Container Registry
+- Azure Container Registry: https://learn.microsoft.com/en-us/azure/container-registry/
 
 ### Desenvolvimento voltado à nuvem
 - Azure Container Apps: https://learn.microsoft.com/en-us/azure/container-apps/
 - Azure Functions: https://learn.microsoft.com/en-us/azure/azure-functions/
 
-## Tecnologias de apoio
-- Azure DevOps
-- Azure Pipelines
-- Azure Repos
-- Azure Artifacts
+## Tecnologias e metodologias de apoio
+- OWASP Top 10 API Security Risks: https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+- Azure DevOps: https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops
+- Azure Pipelines: https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops
+- Azure Repos: https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops
+- Azure Artifacts: https://learn.microsoft.com/en-us/azure/devops/artifacts/?view=azure-devops
