@@ -8,3 +8,9 @@ Tecnologias e tópicos abordados: **Kubernetes, Docker, Azure DevOps, APIOps, Gi
 ## Arquitetura de referência
 
 ![alt](docs/arquitetura-integracoes.png)
+
+## Tecnologias e práticas empregadas
+
+### Desenvolvimento voltado à nuvem
+- Azure Functions: https://learn.microsoft.com/en-us/azure/azure-functions/
+- Azure Container Apps: https://learn.microsoft.com/en-us/azure/container-apps/
