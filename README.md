@@ -32,7 +32,20 @@ Tecnologias e tópicos abordados: **Kubernetes, Docker, Azure DevOps, APIOps, Gi
 - Azure Container Apps: https://learn.microsoft.com/en-us/azure/container-apps/
 - Azure Functions: https://learn.microsoft.com/en-us/azure/azure-functions/
 
-## Tecnologias e metodologias de apoio
+### Observabilidade
+
+- Grafana: https://grafana.com/docs/
+- Prometheus: https://prometheus.io/docs/introduction/overview/
+- Azure Monitor: https://learn.microsoft.com/en-us/azure/azure-monitor/
+- Application Insights: https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+- Log Analytics: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial
+
+### Mensageria/Eventos
+
+- RabbitMQ: https://www.rabbitmq.com/docs
+- Apache Kafka: https://kafka.apache.org/documentation/
+
+### Tecnologias e metodologias de apoio
 - OWASP Top 10 API Security Risks: https://owasp.org/API-Security/editions/2023/en/0x11-t10/
 - Linux: https://docs.kernel.org/
 - Docker: https://docs.docker.com/ 
