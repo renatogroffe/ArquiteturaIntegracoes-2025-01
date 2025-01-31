@@ -34,7 +34,19 @@ Tecnologias e tópicos abordados: **Kubernetes, Docker, Azure DevOps, APIOps, Gi
 
 ## Tecnologias e metodologias de apoio
 - OWASP Top 10 API Security Risks: https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+- Linux: https://docs.kernel.org/
+- Docker: https://docs.docker.com/ 
 - Azure DevOps: https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops
 - Azure Pipelines: https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops
 - Azure Repos: https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops
 - Azure Artifacts: https://learn.microsoft.com/en-us/azure/devops/artifacts/?view=azure-devops
+- Terraform: https://developer.hashicorp.com/terraform/docs
+- Grafana k6: https://k6.io/
+- OpenTelemetry: https://opentelemetry.io/
+- Postman: https://learning.postman.com/docs/introduction/overview/
+- Bash: https://www.gnu.org/software/bash/manual/bash.html
+- PowerShell: https://learn.microsoft.com/en-us/powershell/
+- .NET: https://learn.microsoft.com/en-us/dotnet/
+- Java: https://docs.oracle.com/en/java/
+- Python: https://docs.python.org/3/
+- Node.js: https://nodejs.org/en
